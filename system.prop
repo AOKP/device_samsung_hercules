@@ -80,3 +80,11 @@ persist.radio.add_power_save=1
 # System proverty snapshot disable
 persist.radio.snapshot_disabled=1
 
+# hardware info
+ro.device.chipset=Qualcomm Snapdragon S3 APQ8060
+ro.device.cpu=1.5 GHz dual-core Qualcomm Scorpion
+ro.device.gpu=Qualcomm Adreno 220
+ro.device.rear_cam=8 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=480x800
+
