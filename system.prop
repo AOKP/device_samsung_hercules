@@ -121,6 +121,10 @@ ro.sf.compbypass.enable=1
 persist.sys.ui.hw=1
 dalvik.vm.verify_bytecode=false
 
+# data tweaks
+ro.ril.hsxpa=1
+ro.ril.gprsclass=10
+
 # hardware info
 ro.device.cpu=1.5 GHz dual-core Qualcomm APQ8060 (S3) Snapdragon
 ro.device.gpu=Qualcomm Adreno 220
